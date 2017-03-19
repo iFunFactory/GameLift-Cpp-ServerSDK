@@ -67,6 +67,8 @@ target_include_directories(${TARGET_NAME}
       source
 )
 
+target_compile_options(${TARGET_NAME} PUBLIC -std=c++11)
+
 # -----------------------------
 # Set up link targets
 # -----------------------------
