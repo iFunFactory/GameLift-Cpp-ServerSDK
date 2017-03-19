@@ -5,7 +5,7 @@ You can find the official GameLift documentation [here](https://aws.amazon.com/d
 * Either of the following:  
   * Microsoft Visual Studio 2012 or later  
   * GNU Compiler Collection (GCC) 4.9 or later
-* CMake version 3.1 or later
+* CMake version 2.8 or later
 ## Building the SDK
 ### Out of source build
 To build the server sdk, all you must do is the following:  
