@@ -1,3 +1,17 @@
+This repository is for easy deployment of the gamelift cpp server sdk.
+-----------------------------------------------------------------------
+
+To generate a rpm package, run sudo ./build_rpm.sh.
+
+You may need to install packages to meet its dependency requirement.
+In this case, please see our another repos containing RPMs required by GameLift.
+
+https://github.com/iFunFactory/RPMs-for-AmazonLinux
+
+
+Below is the original README.md
+
+
 # GameLiftServerSdk C++
 ## Documention
 You can find the official GameLift documentation [here](https://aws.amazon.com/documentation/gamelift/).
